@@ -1,0 +1,2 @@
+# GOLang
+Go Lang Training
